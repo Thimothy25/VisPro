@@ -542,7 +542,7 @@
             this.label26.AutoSize = true;
             this.label26.BackColor = System.Drawing.Color.Gold;
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(358, 48);
+            this.label26.Location = new System.Drawing.Point(365, 60);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(689, 52);
             this.label26.TabIndex = 95;
