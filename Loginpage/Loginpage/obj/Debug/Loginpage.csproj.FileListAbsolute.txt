@@ -1,0 +1,56 @@
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\Loginpage.exe.config
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\Loginpage.exe
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\Loginpage.pdb
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Data.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Web.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\Google.Protobuf.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\ZstdNet.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\BouncyCastle.Crypto.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\Ubiety.Dns.Core.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\System.Buffers.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\K4os.Compression.LZ4.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\K4os.Hash.xxHash.dll
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Data.xml
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\bin\Debug\MySql.Web.xml
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.AssemblyReference.cache
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.SuggestedBindingRedirects.cache
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.exe.config
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.Form1.resources
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.Form2.resources
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.Properties.Resources.resources
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.GenerateResource.cache
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.CoreCompileInputs.cache
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.Up2Date
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.exe
+D:\Motzy\Motzy Tugas\Vispro\Loginpage\Loginpage\obj\Debug\Loginpage.pdb
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\Loginpage.exe.config
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\Loginpage.exe
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\Loginpage.pdb
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Data.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Web.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\Google.Protobuf.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\ZstdNet.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\BouncyCastle.Crypto.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\Ubiety.Dns.Core.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\System.Buffers.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\K4os.Compression.LZ4.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\K4os.Hash.xxHash.dll
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Data.xml
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\bin\Debug\MySql.Web.xml
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.AssemblyReference.cache
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.SuggestedBindingRedirects.cache
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.exe.config
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.Form1.resources
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.Form2.resources
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.Properties.Resources.resources
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.GenerateResource.cache
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.CoreCompileInputs.cache
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.csproj.Up2Date
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.exe
+D:\Motzy\Motzy Tugas\Semester 5\vispro\Tugas\Loginpage\Loginpage\obj\Debug\Loginpage.pdb
